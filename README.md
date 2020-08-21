@@ -1,2 +1,3 @@
 # Covid-19
-Programa en c para saber factor de riesgo de contraer covid-19
+ GRADO DE VULNERABILIDAD ANTE EL CONTAGIO COVID -19 * /
+
